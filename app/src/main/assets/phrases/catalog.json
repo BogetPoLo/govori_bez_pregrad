@@ -1,0 +1,127 @@
+[
+  {
+    "word": "Привет",
+    "signflow": "privet",
+    "classIndex": 476
+  },
+  {
+    "word": "Хорошо",
+    "signflow": "khorosho",
+    "classIndex": 540
+  },
+  {
+    "word": "Помочь",
+    "signflow": "pomoch",
+    "classIndex": 933
+  },
+  {
+    "word": "Ждать",
+    "signflow": "zhdat",
+    "classIndex": 679
+  },
+  {
+    "word": "Когда",
+    "signflow": "kogda",
+    "classIndex": 734
+  },
+  {
+    "word": "Завтра",
+    "signflow": "zavtra",
+    "classIndex": 582
+  },
+  {
+    "word": "Утро",
+    "signflow": "utro",
+    "classIndex": 597
+  },
+  {
+    "word": "Вечер",
+    "signflow": "vecher",
+    "classIndex": 715
+  },
+  {
+    "word": "Деньги",
+    "signflow": "dengi",
+    "classIndex": 744
+  },
+  {
+    "word": "Купить",
+    "signflow": "kupit",
+    "classIndex": 911
+  },
+  {
+    "word": "Магазин",
+    "signflow": "magazin",
+    "classIndex": 543
+  },
+  {
+    "word": "Улица",
+    "signflow": "ulitsa",
+    "classIndex": 633
+  },
+  {
+    "word": "Идти",
+    "signflow": "idti",
+    "classIndex": 552
+  },
+  {
+    "word": "Семья",
+    "signflow": "semya",
+    "classIndex": 516
+  },
+  {
+    "word": "Школа",
+    "signflow": "shkola",
+    "classIndex": 722
+  },
+  {
+    "word": "Читать",
+    "signflow": "chitat",
+    "classIndex": 695
+  },
+  {
+    "word": "Писать",
+    "signflow": "pisat",
+    "classIndex": 509
+  },
+  {
+    "word": "Чистый",
+    "signflow": "chistyy",
+    "classIndex": 706
+  },
+  {
+    "word": "Грязный",
+    "signflow": "gryaznyy",
+    "classIndex": 704
+  },
+  {
+    "word": "Собака",
+    "signflow": "sobaka",
+    "classIndex": 68
+  },
+  {
+    "word": "Ключ",
+    "signflow": "klyuch",
+    "classIndex": 727
+  },
+  {
+    "word": "Кружка",
+    "signflow": "kruzhka",
+    "classIndex": 450
+  },
+  {
+    "word": "Вилка",
+    "signflow": "vilka",
+    "classIndex": 452
+  },
+  {
+    "word": "Бутылка",
+    "signflow": "butylka",
+    "classIndex": 428
+  },
+  {
+    "word": "Соль",
+    "signflow": "sol",
+    "classIndex": 775
+  }
+]
