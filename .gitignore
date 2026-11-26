@@ -1,0 +1,14 @@
+.DS_Store
+.gradle/
+.idea/
+.kotlin/
+local.properties
+**/build/
+__pycache__/
+*.pyc
+*.apk
+*.aab
+*.onnx
+/signflow-avatar-videos/
+/signflow-avatar-videos.zip
+/signflow-source-videos/

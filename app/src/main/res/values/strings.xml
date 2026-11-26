@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обучение служению</string>
+    <string name="recognition_tab">РЖЯ → текст</string>
+    <string name="phrases_tab">Русский текст → РЖЯ</string>
+    <string name="recognition_unavailable">Распознавание недоступно</string>
+    <string name="recognition_unavailable_detail">Модель Slovo не удалось загрузить или открыть. Проверьте соединение и попробуйте ещё раз.</string>
+    <string name="recognition_downloading">Скачиваем модель Slovo. Это нужно один раз.</string>
+    <string name="recognition_loading">Загружаем модель…</string>
+    <string name="recognition_start">Начать захват</string>
+    <string name="recognition_stop">Стоп</string>
+    <string name="recognition_instructions">Расположите лицо и руки в кадре. Нажмите кнопку и покажите один жест.</string>
+    <string name="recognition_recording">Покажите жест, подождите секунду и нажмите «Стоп».</string>
+    <string name="recognition_processing">Распознаём жест…</string>
+    <string name="recognition_try_again">Не удалось получить результат. Покажите жест ещё раз.</string>
+    <string name="recognition_retry">Повторить</string>
+    <string name="camera_permission">Разрешите доступ к камере, чтобы показать жест.</string>
+    <string name="camera_denied">Доступ к камере отклонён.</string>
+    <string name="camera_allow">Разрешить камеру</string>
+    <string name="camera_settings">Настройки</string>
+    <string name="camera_unavailable">Камера недоступна.</string>
+    <string name="phrases_search">Введите слово</string>
+    <string name="phrases_clear">Очистить</string>
+    <string name="phrases_video_unavailable">Видео пока недоступно</string>
+    <string name="signflow_watch">Посмотреть жест</string>
+    <string name="signflow_open_browser">Открыть на сайте</string>
+    <string name="signflow_close">Закрыть</string>
+    <string name="signflow_loading">Загружаем видео…</string>
+    <string name="signflow_load_error">Видео SignFlow не удалось открыть в приложении.</string>
+    <string name="signflow_no_browser">На устройстве нет браузера для открытия SignFlow.</string>
+    <string name="phrases_video_preliminary">Предварительная анимация</string>
+    <string name="phrases_repeat">Повторить</string>
+</resources>
