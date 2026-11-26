@@ -1,0 +1,102 @@
+[
+  {
+    "word": "Привет",
+    "signflow": "privet"
+  },
+  {
+    "word": "Спасибо",
+    "signflow": "spasibo"
+  },
+  {
+    "word": "Извини",
+    "signflow": "izvini"
+  },
+  {
+    "word": "Да",
+    "signflow": "da"
+  },
+  {
+    "word": "Нет",
+    "signflow": "net"
+  },
+  {
+    "word": "Хорошо",
+    "signflow": "khorosho"
+  },
+  {
+    "word": "Помощь",
+    "signflow": "pomoshch"
+  },
+  {
+    "word": "Где",
+    "signflow": "gde"
+  },
+  {
+    "word": "Когда",
+    "signflow": "kogda"
+  },
+  {
+    "word": "Пить",
+    "signflow": "pit"
+  },
+  {
+    "word": "Голод",
+    "signflow": "golod"
+  },
+  {
+    "word": "Спать",
+    "signflow": "spat"
+  },
+  {
+    "word": "Туалет",
+    "signflow": "tualet"
+  },
+  {
+    "word": "Холодно",
+    "signflow": "kholodno"
+  },
+  {
+    "word": "Жарко",
+    "signflow": "zharko"
+  },
+  {
+    "word": "Боль",
+    "signflow": "bol"
+  },
+  {
+    "word": "Телефон",
+    "signflow": "telefon"
+  },
+  {
+    "word": "Деньги",
+    "signflow": "dengi"
+  },
+  {
+    "word": "Читать",
+    "signflow": "chitat"
+  },
+  {
+    "word": "Писать",
+    "signflow": "pisat"
+  },
+  {
+    "word": "Работать",
+    "signflow": "rabotat"
+  },
+  {
+    "word": "Идти",
+    "signflow": "idti"
+  },
+  {
+    "word": "Мама",
+    "signflow": "mama"
+  },
+  {
+    "word": "Любить",
+    "signflow": "lyubit"
+  },
+  {
+    "word": "Обнимать",
+    "signflow": "obnimat"
+  }
+]

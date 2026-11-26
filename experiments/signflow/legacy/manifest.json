@@ -1,0 +1,28 @@
+{
+  "recipe": "rgb-center-crop-bilinear-uniform-v1",
+  "layout": "N1CTHW",
+  "width": 224,
+  "height": 224,
+  "frames": 32,
+  "mean": [
+    123.675,
+    116.28,
+    103.53
+  ],
+  "std": [
+    58.395,
+    57.12,
+    57.375
+  ],
+  "modelSha256": "49c0d4023a64188b2cdd9a31e00d610efa9d15902005bf9f319c61c2a0808f65",
+  "householdClassifier": "household-classifier.json",
+  "prototype": {
+    "minimumScore": 0.5,
+    "labels": [
+      {
+        "classIndex": 164,
+        "label": "Привет"
+      }
+    ]
+  }
+}
